@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RabadanOscarPortfolio/static/css/main.3492dbb8.css",
+    "main.js": "/RabadanOscarPortfolio/static/js/main.900f83cf.js",
+    "index.html": "/RabadanOscarPortfolio/index.html",
+    "main.3492dbb8.css.map": "/RabadanOscarPortfolio/static/css/main.3492dbb8.css.map",
+    "main.900f83cf.js.map": "/RabadanOscarPortfolio/static/js/main.900f83cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3492dbb8.css",
+    "static/js/main.900f83cf.js"
+  ]
+}
